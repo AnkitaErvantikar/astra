@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "301003225981",
+    "project_id": "astra-cec6f",
+    "storage_bucket": "astra-cec6f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301003225981:android:f1b1a77259c10a9a01aa14",
+        "android_client_info": {
+          "package_name": "com.example.astra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkST51xtvaykx7aDzZO1uOwFm1tUXq_rg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
